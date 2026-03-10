@@ -1,7 +1,7 @@
 A Study in Scarlet
 
 
-PART 1: BEING A REPRINT FROM THE REMINISCENCES OF JOHN H. WATSON MD, LATE OF THE ARMY MEDICAL DEPARTMENT
+PART 1: Being a Reprint From the Reminiscences of John H. Watson MD, Late of the Army Medical Department
 Chapter 1--Mr Sherlock Holmes
 In the year 1878 I took my degree of Doctor of Medicine of the University of London, and proceeded to Netley to go through the course prescribed for surgeons in the army. Having completed my studies there, I was duly attached to the Fifth Northumberland Fusiliers as Assistant Surgeon. The regiment was stationed in India at the time, and before I could join it, the second Afghan war had broken out. On landing at Bombay, I learned that my corps had advanced through the passes, and was already deep in the enemy's country. I followed, however, with many other officers who were in the same situation as myself, and succeeded in reaching Candahar in safety, where I found my regiment, and at once entered upon my new duties.
 
@@ -967,7 +967,7 @@ The whole thing occurred in a moment - so quickly that I had no time to realize 
 'We have his cab,' said Sherlock Holmes. 'It will serve to take him to Scotland Yard. And now, gentlemen,' he continued, with a pleasant smile, 'we have reached the end of our little mystery. You are very welcome to put any questions that you like to me now, and there is no danger that I will refuse to answer them.'
 
 
-PART 2: THE COUNTRY OF THE SAINTS
+PART 2: The Country of the Saints
 Chapter 1--On the Great Alkali Plain
 In the central portion of the great North American Continent there lies an arid and repulsive desert, which for many a long year served as a barrier against the advance of civilization. From the Sierra Nevada to Nebraska, and from the Yellow-stone River in the north to the Colorado upon the south, is a region of desolation and silence. Nor is Nature always in one mood throughout this grim district. It comprises snow-capped and lofty mountains, and dark and gloomy valleys. There are swift-flowing rivers which dash through jagged cañons; and there are enormous plains, which in winter are white with snow, and in summer are grey with the saline alkali dust. They all preserve, however, the common characteristics of barrenness, inhospitality, and misery.
 

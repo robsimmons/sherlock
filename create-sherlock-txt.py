@@ -3,7 +3,7 @@
 # Copyright 2019 Brilliant Worldwide
 import os
 
-# Concatenate all the files in stores/ and noves/ into one big
+# Concatenate all the files in stores/ and novels/ into one big
 # text corpus, split up books into chapters
 
 
