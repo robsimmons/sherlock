@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Naval Treaty" =>
+%%%
+tag := "Naval025"
+%%%
 
 
 The July which immediately succeeded my marriage was made memorable

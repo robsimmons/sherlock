@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Greek Interpreter" =>
+%%%
+tag := "Greek024"
+%%%
 
 
 During my long and intimate acquaintance with Mr. Sherlock Holmes I had

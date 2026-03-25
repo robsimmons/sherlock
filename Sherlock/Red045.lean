@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Red Circle" =>
+%%%
+tag := "Red045"
+%%%
 
 "Well, Mrs. Warren, I cannot see that you have any particular cause for
 uneasiness, nor do I understand why I, whose time is of some value,

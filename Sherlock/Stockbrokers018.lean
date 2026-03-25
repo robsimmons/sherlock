@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Stockbroker's Clerk" =>
+%%%
+tag := "Stockbrokers018"
+%%%
 
 
 Shortly after my marriage I had bought a connection in the Paddington

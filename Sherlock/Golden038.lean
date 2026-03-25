@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Golden Pince-Nez" =>
+%%%
+tag := "Golden038"
+%%%
 
 When I look at the three massive manuscript volumes which contain our
 work for the year 1894, I confess that it is very difficult for me,

@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Mazarin Stone" =>
+%%%
+tag := "Mazarin050"
+%%%
 
 
 It was pleasant to Dr Watson to find himself once more in the untidy room of the first floor in Baker Street which had been the starting-point of so many remarkable adventures. He looked round him at the scientific charts upon the wall, the acid-charred bench of chemicals, the violin-case leaning in the corner, the coal-scuttle, which contained of old the pipes and tobacco. Finally, his eyes came round to the fresh and smiling face of Billy the young but very wise and tactful page, who had helped a little to fill up the gap of loneliness and isolation which surrounded the saturnine figure of the great detective.

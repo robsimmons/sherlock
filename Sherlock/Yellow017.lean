@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Yellow Face" =>
+%%%
+tag := "Yellow017"
+%%%
 
 
 \[In publishing these short sketches based upon the numerous cases in

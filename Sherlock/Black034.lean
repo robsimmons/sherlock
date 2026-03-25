@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of Black Peter" =>
+%%%
+tag := "Black034"
+%%%
 
 I have never known my friend to be in better form, both mental and
 physical, than in the year '95. His increasing fame had brought with it

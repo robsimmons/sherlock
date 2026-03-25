@@ -6,10 +6,7 @@ open Verso.Genre Manual
 tag := "Scandal003"
 %%%
 
-# Part 1
-%%%
-number := false
-%%%
+I.
 
 To Sherlock Holmes she is always THE woman. I have seldom heard
 him mention her under any other name. In his eyes she eclipses
@@ -495,10 +492,7 @@ you will be good enough to call to-morrow afternoon at three
 o'clock I should like to chat this little matter over with you."
 
 
-# Part 2
-%%%
-number := false
-%%%
+II.
 
 At three o'clock precisely I was at Baker Street, but Holmes had
 not yet returned. The landlady informed me that he had left the
@@ -980,10 +974,7 @@ dimly lit street. "Now, I wonder who the deuce that could have
 been."
 
 
-# Part 3
-%%%
-number := false
-%%%
+III.
 
 I slept at Baker Street that night, and we were engaged upon our
 toast and coffee in the morning when the King of Bohemia rushed
@@ -1140,3 +1131,5 @@ beaten by a woman's wit. He used to make merry over the
 cleverness of women, but I have not heard him do it of late. And
 when he speaks of Irene Adler, or when he refers to her
 photograph, it is always under the honourable title of the woman.
+
+

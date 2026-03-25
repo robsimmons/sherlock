@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Three Students" =>
+%%%
+tag := "Three037"
+%%%
 
 It was in the year '95 that a combination of events, into which I need
 not enter, caused Mr. Sherlock Holmes and myself to spend some weeks in

@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Second Stain" =>
+%%%
+tag := "Second041"
+%%%
 
 I had intended "The Adventure of the Abbey Grange" to be the last of
 those exploits of my friend, Mr. Sherlock Holmes, which I should ever

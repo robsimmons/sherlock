@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Cardboard Box" =>
+%%%
+tag := "Cardboard016"
+%%%
 
 
 In choosing a few typical cases which illustrate the remarkable mental

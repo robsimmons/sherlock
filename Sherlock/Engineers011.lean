@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Engineer's Thumb" =>
+%%%
+tag := "Engineers011"
+%%%
 
 Of all the problems which have been submitted to my friend, Mr.
 Sherlock Holmes, for solution during the years of our intimacy,

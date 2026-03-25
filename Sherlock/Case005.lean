@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "A Case of Identity" =>
+%%%
+tag := "Case005"
+%%%
 
 "My dear fellow," said Sherlock Holmes as we sat on either side
 of the fire in his lodgings at Baker Street, "life is infinitely
@@ -61,7 +64,7 @@ it.
 
 "Ah," said he, "I forgot that I had not seen you for some weeks.
 It is a little souvenir from the King of Bohemia in return for my
-assistance in the case of the {index}[Irene Adler] Irene Adler papers."
+assistance in the case of the Irene Adler papers."
 
 "And the ring?" I asked, glancing at a remarkable brilliant which
 sparkled upon his finger.
@@ -547,8 +550,8 @@ of reasoning and extraordinary energy in action that I felt that
 he must have some solid grounds for the assured and easy
 demeanour with which he treated the singular mystery which he had
 been called upon to fathom. Once only had I known him to fail, in
-the {ref "Scandal003"}[case of the {index}[King of Bohemia] King of Bohemia and of the Irene Adler
-photograph]; but when I looked back to the weird business of the
+the case of the King of Bohemia and of the Irene Adler
+photograph; but when I looked back to the weird business of the
 Sign of Four, and the extraordinary circumstances connected with
 the Study in Scarlet, I felt that it would be a strange tangle
 indeed which he could not unravel.

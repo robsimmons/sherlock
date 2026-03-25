@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Five Orange Pips" =>
+%%%
+tag := "Five007"
+%%%
 
 When I glance over my notes and records of the Sherlock Holmes
 cases between the years '82 and '90, I am faced by so many which

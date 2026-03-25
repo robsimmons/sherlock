@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Missing Three-Quarter" =>
+%%%
+tag := "Missing039"
+%%%
 
 We were fairly accustomed to receive weird telegrams at Baker Street,
 but I have a particular recollection of one which reached us on a gloomy

@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Creeping Man" =>
+%%%
+tag := "Creeping052"
+%%%
 
 Mr Sherlock Holmes was always of opinion that I should publish the singular facts connected with Professor Presbury, if only to dispel once for all the ugly rumours which some twenty years ago agitated the University and were echoed in the learned societies of London. There were, however, certain obstacles in the way, and the true history of this curious case remained entombed in the tin box which contains so many records of my friend's adventures. Now we have at last obtained permission to ventilate the facts which formed one of the very last cases handled by Holmes before his retirement from practice. Even now a certain reticence and discretion have to be observed in laying the matter before the public.
 

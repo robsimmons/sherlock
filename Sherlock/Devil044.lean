@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Devil's Foot" =>
+%%%
+tag := "Devil044"
+%%%
 
 
 In recording from time to time some of the curious experiences and

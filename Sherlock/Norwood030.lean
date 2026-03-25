@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Norwood Builder" =>
+%%%
+tag := "Norwood030"
+%%%
 
 
 "From the point of view of the criminal expert," said Mr. Sherlock

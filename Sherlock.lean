@@ -1,4 +1,8 @@
 import VersoManual
+import Sherlock.Study001
+import Sherlock.Sign002
+import Sherlock.Hound028
+import Sherlock.Valley048
 import Sherlock.Scandal003
 import Sherlock.Red004
 import Sherlock.Case005
@@ -51,8 +55,11 @@ open Verso.Genre Manual
 #doc (Manual) "The Sherlock Holmes Stories" =>
 By Arthur Conan Doyle
 
-# The Adventures of Sherlock Holmes
+{include Sherlock.Study001}
 
+{include Sherlock.Sign002}
+
+# The Adventures of Sherlock Holmes
 {include Sherlock.Scandal003}
 {include Sherlock.Red004}
 {include Sherlock.Case005}
@@ -67,7 +74,6 @@ By Arthur Conan Doyle
 {include Sherlock.Copper014}
 
 # The Memoirs of Sherlock Holmes
-
 {include Sherlock.Silver015}
 {include Sherlock.Cardboard016}
 {include Sherlock.Yellow017}
@@ -80,6 +86,10 @@ By Arthur Conan Doyle
 {include Sherlock.Greek024}
 {include Sherlock.Naval025}
 {include Sherlock.Final026}
+
+{include 0 Sherlock.Hound028}
+
+# The Return of Sherlock Holmes
 {include Sherlock.Empty029}
 {include Sherlock.Norwood030}
 {include Sherlock.Dancing031}
@@ -93,21 +103,25 @@ By Arthur Conan Doyle
 {include Sherlock.Missing039}
 {include Sherlock.Abbey040}
 {include Sherlock.Second041}
+
+# His Last Bow
 {include Sherlock.Wisteria042}
 {include Sherlock.Bruce043}
 {include Sherlock.Devil044}
 {include Sherlock.Red045}
 {include Sherlock.Disappearance046}
 {include Sherlock.Dying047}
+
+{include 0 Sherlock.Valley048}
+
+# The Case-Book of Sherlock Holmes
 {include Sherlock.His049}
 {include Sherlock.Mazarin050}
-{include Sherlock.Creeping052}
 {include Sherlock.Thor051}
+{include Sherlock.Creeping052}
 
 # Index
 %%%
 number := false
-file := some "the-index"
 %%%
 
-{theIndex}

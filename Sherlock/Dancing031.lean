@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Dancing Men" =>
+%%%
+tag := "Dancing031"
+%%%
 
 
 Holmes had been seated for some hours in silence with his long,

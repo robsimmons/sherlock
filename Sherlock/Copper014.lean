@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Copper Beeches" =>
+%%%
+tag := "Copper014"
+%%%
 
 "To the man who loves art for its own sake," remarked Sherlock
 Holmes, tossing aside the advertisement sheet of the Daily

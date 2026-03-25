@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Resident Patient" =>
+%%%
+tag := "Resident023"
+%%%
 
 
 In glancing over the somewhat incoherent series of Memoirs with which I

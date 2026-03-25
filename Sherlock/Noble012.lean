@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Noble Bachelor" =>
+%%%
+tag := "Noble012"
+%%%
 
 The Lord St. Simon marriage, and its curious termination, have
 long ceased to be a subject of interest in those exalted circles

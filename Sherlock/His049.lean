@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "His Last Bow" =>
+%%%
+tag := "His049"
+%%%
 
 It was nine o'clock at night upon the second of August--the most
 terrible August in the history of the world.  One might have thought

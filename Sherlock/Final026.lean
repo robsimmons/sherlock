@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Final Problem" =>
+%%%
+tag := "Final026"
+%%%
 
 It is with a heavy heart that I take up my pen to write these the last
 words in which I shall ever record the singular gifts by which my friend

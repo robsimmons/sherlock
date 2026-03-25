@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Empty House" =>
+%%%
+tag := "Empty029"
+%%%
 
 
 It was in the spring of the year 1894 that all London was interested,

@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Priory School" =>
+%%%
+tag := "Priory033"
+%%%
 
 
 

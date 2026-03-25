@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Bruce-Partington Plans" =>
+%%%
+tag := "Bruce043"
+%%%
 
 In the third week of November, in the year 1895, a dense yellow fog
 settled down upon London.  From the Monday to the Thursday I doubt

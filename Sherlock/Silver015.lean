@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of Silver Blaze" =>
+%%%
+tag := "Silver015"
+%%%
 
 "I am afraid, Watson, that I shall have to go," said Holmes, as we sat
 down together to our breakfast one morning.

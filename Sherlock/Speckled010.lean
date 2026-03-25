@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Speckled Band" =>
+%%%
+tag := "Speckled010"
+%%%
 
 On glancing over my notes of the seventy odd cases in which I
 have during the last eight years studied the methods of my friend

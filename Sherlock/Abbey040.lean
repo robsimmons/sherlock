@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Abbey Grange" =>
+%%%
+tag := "Abbey040"
+%%%
 
 It was on a bitterly cold and frosty morning, towards the end of the
 winter of '97, that I was awakened by a tugging at my shoulder. It was

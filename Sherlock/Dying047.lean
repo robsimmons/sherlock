@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Dying Detective" =>
+%%%
+tag := "Dying047"
+%%%
 
 Mrs. Hudson, the landlady of Sherlock Holmes, was a long-suffering
 woman.  Not only was her first-floor flat invaded at all hours by

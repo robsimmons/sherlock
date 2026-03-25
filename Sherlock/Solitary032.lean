@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Solitary Cyclist" =>
+%%%
+tag := "Solitary032"
+%%%
 
 From the years 1894 to 1901 inclusive, Mr. Sherlock Holmes was a
 very busy man. It is safe to say that there was no public case of any

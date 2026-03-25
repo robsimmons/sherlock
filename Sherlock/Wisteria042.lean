@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of Wisteria Lodge" =>
+%%%
+tag := "Wisteria042"
+%%%
 
 
 

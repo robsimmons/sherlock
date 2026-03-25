@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Boscombe Valley Mystery" =>
+%%%
+tag := "Boscombe006"
+%%%
 
 We were seated at breakfast one morning, my wife and I, when the
 maid brought in a telegram. It was from Sherlock Holmes and ran

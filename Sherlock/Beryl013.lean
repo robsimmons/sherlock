@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Beryl Coronet" =>
+%%%
+tag := "Beryl013"
+%%%
 
 "Holmes," said I as I stood one morning in our bow-window looking
 down the street, "here is a madman coming along. It seems rather

@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of Charles Augustus Milverton" =>
+%%%
+tag := "Charles035"
+%%%
 
 It is years since the incidents of which I speak took place, and yet it
 is with diffidence that I allude to them. For a long time, even with the

@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Blue Carbuncle" =>
+%%%
+tag := "Blue009"
+%%%
 
 I had called upon my friend Sherlock Holmes upon the second
 morning after Christmas, with the intention of wishing him the
@@ -43,8 +46,8 @@ criminal. We have already had experience of such."
 have added to my notes, three have been entirely free of any
 legal crime."
 
-"Precisely. You allude to my {index (subterm := "A Scandal in Bohemia")}[Documented Stories] {ref "Scandal003"}[attempt to recover the {index}[Irene Adler]
-papers], to the singular case of Miss {index}[Mary Sutherland], and to the
+"Precisely. You allude to my attempt to recover the Irene Adler
+papers, to the singular case of Miss Mary Sutherland, and to the
 adventure of the man with the twisted lip. Well, I have no doubt
 that this small matter will fall into the same innocent category.
 You know Peterson, the commissionaire?"
@@ -977,3 +980,4 @@ whimsical problem, and its solution is its own reward. If you
 will have the goodness to touch the bell, Doctor, we will begin
 another investigation, in which, also a bird will be the chief
 feature."
+

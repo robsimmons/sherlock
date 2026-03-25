@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Crooked Man" =>
+%%%
+tag := "Crooked022"
+%%%
 
 
 One summer night, a few months after my marriage, I was seated by my own

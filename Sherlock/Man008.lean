@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Man with the Twisted Lip" =>
+%%%
+tag := "Man008"
+%%%
 
 Isa Whitney, brother of the late Elias Whitney, D.D., Principal
 of the Theological College of St. George's, was much addicted to

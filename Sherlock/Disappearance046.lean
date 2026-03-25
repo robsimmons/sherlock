@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Disappearance of Lady Frances Carfax" =>
+%%%
+tag := "Disappearance046"
+%%%
 
 "But why Turkish?" asked Mr. Sherlock Holmes, gazing fixedly at my
 boots.  I was reclining in a cane-backed chair at the moment, and my

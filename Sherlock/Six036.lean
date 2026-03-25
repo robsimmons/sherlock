@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Six Napoleons" =>
+%%%
+tag := "Six036"
+%%%
 
 It was no very unusual thing for Mr. Lestrade, of Scotland Yard, to
 look in upon us of an evening, and his visits were welcome to Sherlock

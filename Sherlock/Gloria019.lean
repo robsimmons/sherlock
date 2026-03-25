@@ -2,6 +2,9 @@ import VersoManual
 open Verso.Genre Manual
 
 #doc (Manual) "The Adventure of the Gloria Scott" =>
+%%%
+tag := "Gloria019"
+%%%
 
 
 "I have some papers here," said my friend Sherlock Holmes, as we sat
