@@ -12,3 +12,7 @@ celestial.txt
 fanfic.txt
 shakespeare.txt
 warpeace.txt
+
+# Verso and Lean artifacts
+.lake
+_out
