@@ -112,6 +112,7 @@ remark, however, but sat nursing my wounded leg.  I had a Jezail bullet
 through it some time before, and, though it did not prevent me from
 walking, it ached wearily at every change of the weather.
 
+{index (subterm := "The Case of A Continental Will")}[Untold Stories]
 "My practice has extended recently to the Continent," said Holmes,
 after a while, filling up his old brier-root pipe.  "I was consulted
 last week by Francois Le Villard, who, as you probably know, has come
@@ -318,6 +319,7 @@ powers, doctor, when one has no field upon which to exert them?  Crime
 is commonplace, existence is commonplace, and no qualities save those
 which are commonplace have any function upon earth."
 
+{index}[Mrs. Hudson]
 I had opened my mouth to reply to this tirade, when with a crisp knock
 our landlady entered, bearing a card upon the brass salver.
 
@@ -1583,6 +1585,7 @@ full as a rabbit-warren!"
 "I think you must recollect me, Mr. Athelney Jones," said Holmes,
 quietly.
 
+{index (subterm := "The Bishopgate Jewel Case")}[Untold Stories]
 "Why, of course I do!" he wheezed.  "It's Mr. Sherlock Holmes, the
 theorist.  Remember you!  I'll never forget how you lectured us all on
 causes and inferences and effects in the Bishopgate jewel case.  It's
@@ -4507,8 +4510,3 @@ pray what remains for you?"
 
 "For me," said Sherlock Holmes, "there still remains the
 cocaine-bottle."  And he stretched his long white hand up for it.
-
-
-
-
-

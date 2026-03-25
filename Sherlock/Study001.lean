@@ -194,6 +194,7 @@ When I had got so far in my list I threw it into the fire in despair. 'If I can 
 
 I see that I have alluded above to his powers upon the violin. These were very remarkable, but as eccentric as all his other accomplishments. That he could play pieces, and difficult pieces, I knew well, because at my request he has played me some of Mendelssohn's Lieder, and other favourites. When left to himself, however, he would seldom produce any music or attempt any recognized air. Leaning back in his arm-chair of an evening, he would close his eyes and scrape carelessly at the fiddle which was thrown across his knee. Sometimes the chords were sonorous and melancholy. Occasionally they were fantastic and cheerful. Clearly they reflected the thoughts which possessed him, but whether the music aided those thoughts, or whether the playing was simply the result of a whim or fancy, was more than I could determine. I might have rebelled against these exasperating solos had it not been that he usually terminated them by playing in quick succession a whole series of my favourite airs as a slight compensation for the trial upon my patience.
 
+{index}[Lestrade]
 During the first week or so we had no callers, and I had begun to think that my companion was as friendless a man as I was myself. Presently, however, I found that he had many acquaintances, and those in the most different classes of society. There was one little sallow, rat-faced, dark-eyed fellow, who was introduced to me as Mr Lestrade, and who came three or four times in a single week. One morning a young girl called, fashionably dressed, and stayed for half an hour or more. The same afternoon brought a grey-headed, seedy visitor, looking like a Jew pedlar, who appeared to me to be much excited, and who was closely followed by a slip-shod elderly woman. On another occasion an old white-haired gentleman had an interview with my companion; and on another, a railway porter in his velveteen uniform. When any of these nondescript individuals put in an appearance, Sherlock Holmes used to beg for the use of the sitting-room, and I would retire to my bed-room. He always apologized to me for putting me to this inconvenience. 'I have to use this room as a place of business,' he said, 'and these people are my clients.' Again I had an opportunity of asking him a point-blank question, and again my delicacy prevented me from forcing another man to confide in me. I imagined at the time that he had some strong reason for not alluding to it, but he soon dispelled the idea by coming round to the subject of his own accord.
 
 It was upon the 4th of March, as I have good reason to remember, that I rose somewhat earlier than usual, and found that Sherlock Holmes had not yet finished his breakfast. The landlady had become so accustomed to my late habits that my place had not been laid nor my coffee prepared. With the unreasonable petulance of mankind I rang the bell and gave a curt intimation that I was ready. Then I picked up a magazine from the table and attempted to while away the time with it, while my companion munched silently at his toast. One of the articles had a pencil mark at the heading, and I naturally began to run my eye through it.
@@ -286,6 +287,7 @@ I confess that I was considerably startled by this fresh proof of the practical 
 
 'It does seem to be a little out of the common,' he remarked, calmly. 'Would you mind reading it to me aloud?' This is the letter which I read to him:
 
+{index}[Tobias Gregson]
 "My dear Mr Sherlock Holmes, There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road. Our man on the beat saw a light there about two in the morning, and as the house was an empty one, suspected that something was amiss. He found the door open, and in the front room, which is bare of furniture, discovered the body of a gentleman, well dressed, and having cards in his pocket bearing the name of 'Enoch J. Drebber, Cleveland, Ohio, U.S.A.' There had been no robbery, nor is there any evidence as to how the man met his death. There are marks of blood in the room, but there is no wound upon his person. We are at a loss as to how he came into the empty house; indeed, the whole affair is a puzzler. If you can come round to the house any time before twelve, you will find me there. I have left everything in statu quo until I hear from you. If you are unable to come, I shall give you fuller details, and would esteem it a great kindness if you would favour me with your opinion. Yours faithfully, TOBIAS GREGSON."
 
 'Gregson is the smartest of the Scotland Yarders,' my friend remarked; 'he and Lestrade are the pick of a bad lot. They are both quick and energetic, but conventional - shockingly so. They have their knives into one another, too. They are as jealous as a pair of professional beauties. There will be some fun over this case if they are both put upon the scent.'
@@ -446,6 +448,7 @@ Gregson and Lestrade had watched the manoeuvres of their amateur companion with 
 
 'It would be robbing you of the credit of the case if I was to presume to help you,' remarked my friend. 'You are doing so well now that it would be a pity for anyone to interfere.' There was a world of sarcasm in his voice as he spoke. 'If you will let me know how your investigations go,' he continued, 'I shall be happy to give you any help I can. In the meantime I should like to speak to the constable who found the body. Can you give me his name and address?'
 
+{index}[John Rance]
 Lestrade glanced at his note-book. 'John Rance,' he said. 'He is off duty now. You will find him at 46, Audley Court, Kennington Park Gate.'
 
 Holmes took a note of the address.
@@ -512,6 +515,7 @@ Holmes took a half-sovereign from his pocket and played with it pensively. 'We t
 
 Rance sat down on the horsehair sofa, and knitted his brows, as though determined not to omit anything in his narrative.
 
+{index}[Harry Murcher]
 'I'll tell it ye from the beginning,' he said. 'My time is from ten at night to six in the morning. At eleven there was a fight at the White Hart; but bar that all was quiet enough on the beat. At one o'clock it began to rain, and I met Harry Murcher - him who has the Holland Grove beat - and we stood together at the corner of Henrietta Street a-talkin's Presently - maybe about two or a little after - I thought I would take a look round and see that all was right down the Brixton Road. It was precious dirty and lonely. Not a soul did I meet all the way down, though a cab or two went past me. I was a-strollin' down, thinkin' between ourselves how uncommon handy a four of gin hot would be, when suddenly the glint of a light caught my eye in the window of that same house. Now, I knew that them two houses in Lauriston Gardens was empty on account of him that owns them who won't have the drains seed to, though the very last tenant what lived in one of them died o' typhoid fever. I was knocked all in a heap, therefore, at seeing a light in the window, and I suspected as something was wrong. When I got to the door-'
 
 'You stopped, and then walked back to the garden gate,' my companion interrupted. 'What did you do that for?'
@@ -1614,9 +1618,3 @@ It was the Echo for the day, and the paragraph to which he pointed was devoted t
 '"Populus me sibilat, at mihi plaudo
 
 Ipse domi simul ac nummos contemplor in arca."'
-
-
-
-
-
-

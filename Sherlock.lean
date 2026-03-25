@@ -125,3 +125,4 @@ By Arthur Conan Doyle
 number := false
 %%%
 
+{theIndex}
